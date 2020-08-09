@@ -1,5 +1,4 @@
 # Marijuana-legality-status-vs-socioeconomic-variables
-# Project Title
 
 One Paragraph of project description goes here
 
