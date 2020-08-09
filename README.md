@@ -10,7 +10,7 @@ My target variable was catergorical with 3 levels (illegal, legal for medical pu
 ## About repository
 
 <b>Does marijuana legalization change something?</b> is a desription of whole project (in Polish).   
-Jupyter Notebook file <b>Visualization.ipynb</b> contains some plots, charts and maps. Those were neccesery for exploratory data analysis. However, for some reason, <i>Plotly Express</i> has a problem to display graphs here, that's why repository contains images folder with static images of the charts. That's problematic, because some of those graphs are interactable and to see it that way you should open this notebook with <u>nbviewer</u> (button in top right corner when you open notebook here).  
+Jupyter Notebook file <b>Visualization.ipynb</b> contains some plots, charts and maps. Those were neccesery for exploratory data analysis. However, for some reason, <i>Plotly Express</i> has a problem to display graphs here, that's why repository contains images folder with static images of the charts. That's problematic, because some of those graphs are interactable and to see it that way you should open this notebook with <ins>nbviewer</ins> (button in top right corner when you open notebook here).  
 All modeling part of the project was performed with R in <b>Modeling.R</b> file. I resigned from Python for two reasons. Firstly, because I want to practise with this language and secondly because Python is not super friendly with ordinal regression.  
 Of course it is also dataset file which I manualy created and used in this study.
 
