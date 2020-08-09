@@ -19,7 +19,7 @@ Of course repository also contains dataset file which I manualy created and used
 * R
 * Python
 
-## Authors
+## Author
 
 * **Bartek Kuźma**
 
